@@ -1,0 +1,34 @@
+# Node modules
+node_modules/
+
+# Environment files
+.env
+
+# Log files
+*.log
+
+# Build and dist files
+/dist
+/build
+
+# Database files
+*.db
+data/
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# macOS system files
+.DS_Store
+
+# Package lock files (Optional, if you don’t want to commit them)
+package-lock.json
+yarn.lock
+
+# Test coverage reports
+coverage/
+
+# Miscellaneous files
+*.bak
+*.swp
